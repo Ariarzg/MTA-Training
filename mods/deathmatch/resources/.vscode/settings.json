@@ -1,0 +1,27 @@
+{
+    "Lua.diagnostics.globals": [
+        "addEventHandler",
+        "source",
+        "spawnPlayer",
+        "fadeCamera",
+        "setCameraTarget",
+        "root",
+        "createVehicle",
+        "addCommandHandler",
+        "getElementPosition",
+        "createVehicleForPlayer",
+        "dbConnect",
+        "resourceRoot",
+        "exports",
+        "dbExec",
+        "getConnection",
+        "dbQuery",
+        "dbPoll",
+        "laodAllVehicles",
+        "setElementData",
+        "getElementsByType",
+        "getElementData",
+        "getElementRotation",
+        "db"
+    ]
+}

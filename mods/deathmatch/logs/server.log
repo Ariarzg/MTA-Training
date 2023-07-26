@@ -1,0 +1,739 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 10:34:14] File 'settings.xml' not present, creating new node.
+[2023-07-25 10:34:21] Resources: 193 loaded, 0 failed
+[2023-07-25 10:34:22] Starting resources...
+[2023-07-25 10:34:22] Admin access list successfully updated 
+[2023-07-25 10:34:22] INFO: Admin added 538 missing rights
+[2023-07-25 10:34:22] Server minclientversion is now 1.5.6-9.16361
+[2023-07-25 10:34:22] Server minclientversion is now 1.5.6-9.16362
+[2023-07-25 10:34:23] Gamemode 'play' started.
+[2023-07-25 10:34:23] Querying MTA master server... failed! (6 Error downloading requested files. Couldn't resolve host name. [Could not resolve host: master.mtasa.com] [add.php?g=22003&a=22126&h=22005&v=1.5.9-9.21650&x=0_32_0_1_1&ip=])
+[2023-07-25 10:34:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 10:34:23] WARNING: <owner_email_address> not set
+[2023-07-25 10:34:23] Server started and is ready to accept connections!
+[2023-07-25 10:34:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 10:34:23] Type 'help' for a list of commands.
+[2023-07-25 10:35:45] Server stopped!
+[2023-07-25 10:35:45] Stopping resources.......................
+[2023-07-25 10:35:45] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 11:06:43] Compacting accounts database 'internal.db' ...
+[2023-07-25 11:06:43] ERROR: Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:06:43] Loading of resource 'players' failed
+[2023-07-25 11:06:43] ERROR: Problem with resource: players; Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:06:43] Resources: 0 loaded, 1 failed
+[2023-07-25 11:06:43] Compacting database 'registry.db' ...
+[2023-07-25 11:06:43] Starting resources...
+[2023-07-25 11:06:43] ERROR: Unable to start resource players; Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:06:43] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 11:06:43] WARNING: <owner_email_address> not set
+[2023-07-25 11:06:43] Server started and is ready to accept connections!
+[2023-07-25 11:06:43] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 11:06:43] Type 'help' for a list of commands.
+[2023-07-25 11:06:48] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 11:08:10] ERROR: Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:08:10] Loading of resource 'players' failed
+[2023-07-25 11:08:10] ERROR: Problem with resource: players; Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:08:10] Resources: 0 loaded, 1 failed
+[2023-07-25 11:08:10] Starting resources...
+[2023-07-25 11:08:10] ERROR: Unable to start resource players; Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:08:10] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 11:08:10] WARNING: <owner_email_address> not set
+[2023-07-25 11:08:10] Server started and is ready to accept connections!
+[2023-07-25 11:08:10] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 11:08:10] Type 'help' for a list of commands.
+[2023-07-25 11:08:11] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 11:09:23] help [command]
+[2023-07-25 11:09:23] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2023-07-25 11:09:29] Resource 'players' changed, reloading
+[2023-07-25 11:09:29] ERROR: Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:09:29] Loading of resource 'players' failed
+[2023-07-25 11:09:29] ERROR: Problem with resource: players; Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:09:29] Resources: 0 loaded, 1 failed
+[2023-07-25 11:10:05] Server stopped!
+[2023-07-25 11:10:05] Stopping resources...
+[2023-07-25 11:10:05] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 11:11:12] ERROR: Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:11:12] Loading of resource 'players' failed
+[2023-07-25 11:11:12] ERROR: Problem with resource: players; Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:11:12] Resources: 0 loaded, 1 failed
+[2023-07-25 11:11:12] Starting resources...
+[2023-07-25 11:11:12] ERROR: Unable to start resource players; Couldn't parse meta file for resource 'players' [Line 3: Error reading end tag.]
+[2023-07-25 11:11:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 11:11:12] WARNING: <owner_email_address> not set
+[2023-07-25 11:11:12] Server started and is ready to accept connections!
+[2023-07-25 11:11:12] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 11:11:12] Type 'help' for a list of commands.
+[2023-07-25 11:11:14] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 11:11:46] Resource 'players' changed, reloading
+[2023-07-25 11:11:46] New resource 'players' loaded
+[2023-07-25 11:11:46] Resources: 1 loaded, 0 failed
+[2023-07-25 11:12:39] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 11:12:39] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 11:12:44] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-25 11:13:46] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 11:13:54] Server stopped!
+[2023-07-25 11:13:55] Stopping resources...
+[2023-07-25 11:13:55] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 11:15:20] Resources: 1 loaded, 0 failed
+[2023-07-25 11:15:20] Starting resources....
+[2023-07-25 11:15:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 11:15:20] WARNING: <owner_email_address> not set
+[2023-07-25 11:15:20] Server started and is ready to accept connections!
+[2023-07-25 11:15:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 11:15:20] Type 'help' for a list of commands.
+[2023-07-25 11:15:25] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 11:15:57] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 11:15:57] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 11:16:00] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 11:16:17] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 11:16:26] Server stopped!
+[2023-07-25 11:16:26] Stopping resources....
+[2023-07-25 11:16:26] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 11:18:31] Resources: 2 loaded, 0 failed
+[2023-07-25 11:18:31] Starting resources....
+[2023-07-25 11:18:31] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 11:18:31] WARNING: <owner_email_address> not set
+[2023-07-25 11:18:31] Server started and is ready to accept connections!
+[2023-07-25 11:18:31] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 11:18:31] Type 'help' for a list of commands.
+[2023-07-25 11:18:41] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 11:19:06] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 11:19:06] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 11:19:09] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 11:19:55] restart: Requested by Console
+[2023-07-25 11:19:55] restart: Resource is not running
+[2023-07-25 11:20:39] restart: Requested by Console
+[2023-07-25 11:20:39] restart: Resource is not running
+[2023-07-25 11:20:48] start: Requested by Console
+[2023-07-25 11:20:48] Starting vehicles
+[2023-07-25 11:20:48] start: Resource 'vehicles' started
+[2023-07-25 11:22:01] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 11:24:41] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 11:24:42] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 11:24:59] ACL: Denied 'EndurablePirate90' access to command 'restart'
+[2023-07-25 11:25:10] restart: Requested by Console
+[2023-07-25 11:25:10] restart: Resource restarting...
+[2023-07-25 11:25:10] Stopping vehicles
+[2023-07-25 11:25:10] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 11:25:10] Starting vehicles
+[2023-07-25 11:25:10] vehicles restarted successfully
+[2023-07-25 11:26:31] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 11:28:41] restart: Requested by Console
+[2023-07-25 11:28:41] restart: Resource restarting...
+[2023-07-25 11:28:41] Stopping vehicles
+[2023-07-25 11:28:41] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 11:28:41] Starting vehicles
+[2023-07-25 11:28:41] WARNING: vehicles\vehicles.lua:1: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2023-07-25 11:28:41] vehicles restarted successfully
+[2023-07-25 11:29:01] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 11:29:01] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-25 11:30:10] restart: Requested by Console
+[2023-07-25 11:30:10] restart: Resource restarting...
+[2023-07-25 11:30:10] Stopping vehicles
+[2023-07-25 11:30:10] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 11:30:10] Starting vehicles
+[2023-07-25 11:30:10] vehicles restarted successfully
+[2023-07-25 11:30:16] ERROR: vehicles\vehicles.lua:3: attempt to index global 'pos' (a number value)
+[2023-07-25 11:30:30] ERROR: vehicles\vehicles.lua:3: attempt to index global 'pos' (a number value)
+[2023-07-25 11:31:17] restart: Requested by Console
+[2023-07-25 11:31:17] restart: Resource restarting...
+[2023-07-25 11:31:17] Stopping vehicles
+[2023-07-25 11:31:17] Starting vehicles
+[2023-07-25 11:31:17] vehicles restarted successfully
+[2023-07-25 11:31:22] ERROR: vehicles\vehicles.lua:3: attempt to index global 'pos' (a number value)
+[2023-07-25 11:32:22] restart: Requested by Console
+[2023-07-25 11:32:22] restart: Resource restarting...
+[2023-07-25 11:32:22] Stopping vehicles
+[2023-07-25 11:32:22] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 11:32:22] Starting vehicles
+[2023-07-25 11:32:22] vehicles restarted successfully
+[2023-07-25 11:32:25] ERROR: vehicles\vehicles.lua:3: attempt to call global 'warn' (a nil value)
+[2023-07-25 11:34:40] restart: Requested by Console
+[2023-07-25 11:34:40] restart: Resource restarting...
+[2023-07-25 11:34:40] Stopping vehicles
+[2023-07-25 11:34:40] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 11:34:40] Starting vehicles
+[2023-07-25 11:34:40] vehicles restarted successfully
+[2023-07-25 11:37:43] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 11:38:52] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 11:38:56] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-25 11:40:40] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 11:46:39] Server stopped!
+[2023-07-25 11:46:39] Stopping resources.....
+[2023-07-25 11:46:39] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 12:09:52] Resources: 3 loaded, 0 failed
+[2023-07-25 12:09:52] Starting resources.....
+[2023-07-25 12:09:52] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 12:09:52] WARNING: <owner_email_address> not set
+[2023-07-25 12:09:52] Server started and is ready to accept connections!
+[2023-07-25 12:09:52] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 12:09:52] Type 'help' for a list of commands.
+[2023-07-25 12:09:58] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 12:12:00] start: Requested by Console
+[2023-07-25 12:12:00] Starting db
+[2023-07-25 12:12:00] start: Resource 'db' started
+[2023-07-25 12:13:24] Server stopped!
+[2023-07-25 12:13:24] Stopping resources......
+[2023-07-25 12:13:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 12:13:30] Resources: 3 loaded, 0 failed
+[2023-07-25 12:13:30] Starting resources......
+[2023-07-25 12:13:30] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 12:13:30] WARNING: <owner_email_address> not set
+[2023-07-25 12:13:30] Server started and is ready to accept connections!
+[2023-07-25 12:13:30] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 12:13:30] Type 'help' for a list of commands.
+[2023-07-25 12:13:37] Querying MTA master server... failed! (56 Error downloading requested files. Failure when receiving data from the peer. [Recv failure: Connection was reset] [add.php?g=22003&a=22126&h=22005&v=1.5.9-9.21650&x=0_32_0_1_1&ip=])
+[2023-07-25 12:14:20] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 12:14:20] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 12:14:23] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 12:16:19] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 12:30:12] restart: Requested by Console
+[2023-07-25 12:30:12] restart: Resource restarting...
+[2023-07-25 12:30:12] Stopping vehicles
+[2023-07-25 12:30:12] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 12:30:12] Starting vehicles
+[2023-07-25 12:30:12] vehicles restarted successfully
+[2023-07-25 12:30:22] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 12:30:22] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 12:30:51] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 12:30:54] Server stopped!
+[2023-07-25 12:30:54] Stopping resources......
+[2023-07-25 12:30:54] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 12:31:23] Resources: 3 loaded, 0 failed
+[2023-07-25 12:31:23] Starting resources....
+[2023-07-25 12:31:23] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 12:31:23] WARNING: vehicles\vehicles.lua:24: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 12:31:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 12:31:23] WARNING: <owner_email_address> not set
+[2023-07-25 12:31:23] Server started and is ready to accept connections!
+[2023-07-25 12:31:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 12:31:23] Type 'help' for a list of commands.
+[2023-07-25 12:31:24] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 12:31:31] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 12:31:31] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 12:31:31] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 12:31:46] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 12:33:05] restart: Requested by Console
+[2023-07-25 12:33:05] restart: Resource restarting...
+[2023-07-25 12:33:05] Stopping vehicles
+[2023-07-25 12:33:05] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 12:33:05] Starting vehicles
+[2023-07-25 12:33:05] WARNING: vehicles\vehicles.lua:22: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 12:33:05] vehicles restarted successfully
+[2023-07-25 12:33:19] restart: Requested by Console
+[2023-07-25 12:33:19] restart: Resource restarting...
+[2023-07-25 12:33:19] Stopping vehicles
+[2023-07-25 12:33:19] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 12:33:19] Starting vehicles
+[2023-07-25 12:33:19] vehicles restarted successfully
+[2023-07-25 12:33:29] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 12:33:29] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 12:33:38] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 12:34:01] restart: Requested by Console
+[2023-07-25 12:34:01] restart: Resource restarting...
+[2023-07-25 12:34:01] Stopping vehicles
+[2023-07-25 12:34:01] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 12:34:01] Starting vehicles
+[2023-07-25 12:34:01] vehicles restarted successfully
+[2023-07-25 12:45:03] restart: Requested by Console
+[2023-07-25 12:45:03] restart: Resource restarting...
+[2023-07-25 12:45:03] Stopping vehicles
+[2023-07-25 12:45:03] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 12:45:03] Starting vehicles
+[2023-07-25 12:45:03] vehicles restarted successfully
+[2023-07-25 12:45:49] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 12:45:49] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 12:46:14] restart: Requested by Console
+[2023-07-25 12:46:14] restart: Resource restarting...
+[2023-07-25 12:46:14] Stopping vehicles
+[2023-07-25 12:46:14] Starting vehicles
+[2023-07-25 12:46:14] vehicles restarted successfully
+[2023-07-25 12:46:55] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 13:02:17] restart: Requested by Console
+[2023-07-25 13:02:17] restart: Resource restarting...
+[2023-07-25 13:02:17] Stopping vehicles
+[2023-07-25 13:02:17] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 13:02:17] Starting vehicles
+[2023-07-25 13:02:17] vehicles restarted successfully
+[2023-07-25 13:02:28] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 13:02:28] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 13:02:53] restart: Requested by Console
+[2023-07-25 13:02:53] restart: Resource restarting...
+[2023-07-25 13:02:53] Stopping vehicles
+[2023-07-25 13:02:53] Starting vehicles
+[2023-07-25 13:02:53] vehicles restarted successfully
+[2023-07-25 13:03:45] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 13:14:06] restart: Requested by Console
+[2023-07-25 13:14:06] restart: Resource restarting...
+[2023-07-25 13:14:06] Stopping vehicles
+[2023-07-25 13:14:06] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 13:14:06] Starting vehicles
+[2023-07-25 13:14:06] vehicles restarted successfully
+[2023-07-25 13:14:06] WARNING: vehicles\vehicles.lua:54: dbExec failed; (1) SQL logic error
+[2023-07-25 13:14:13] Server stopped!
+[2023-07-25 13:14:13] Stopping resources......
+[2023-07-25 13:14:13] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:14:17] Resources: 3 loaded, 0 failed
+[2023-07-25 13:14:17] Starting resources....
+[2023-07-25 13:14:17] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:14:17] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:14:17] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:14:17] WARNING: <owner_email_address> not set
+[2023-07-25 13:14:17] Server started and is ready to accept connections!
+[2023-07-25 13:14:17] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:14:17] Type 'help' for a list of commands.
+[2023-07-25 13:14:18] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 13:15:00] Server stopped!
+[2023-07-25 13:15:00] Stopping resources......
+[2023-07-25 13:15:00] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:15:28] Resources: 3 loaded, 0 failed
+[2023-07-25 13:15:28] Starting resources....
+[2023-07-25 13:15:28] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:15:28] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:15:28] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:15:28] WARNING: <owner_email_address> not set
+[2023-07-25 13:15:28] Server started and is ready to accept connections!
+[2023-07-25 13:15:28] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:15:28] Type 'help' for a list of commands.
+[2023-07-25 13:15:30] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 13:16:06] * Syntax: restart <resource-name>
+[2023-07-25 13:16:10] restart: Requested by Console
+[2023-07-25 13:16:10] restart: Resource could not be restarted as it is protected
+[2023-07-25 13:16:14] restart: Requested by Console
+[2023-07-25 13:16:14] restart: Resource restarting...
+[2023-07-25 13:16:14] Stopping vehicles
+[2023-07-25 13:16:14] Starting vehicles
+[2023-07-25 13:16:14] vehicles restarted successfully
+[2023-07-25 13:16:22] Server stopped!
+[2023-07-25 13:16:22] Stopping resources......
+[2023-07-25 13:16:22] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:16:24] Resources: 3 loaded, 0 failed
+[2023-07-25 13:16:24] Starting resources....
+[2023-07-25 13:16:24] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:16:24] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:16:24] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:16:24] WARNING: <owner_email_address> not set
+[2023-07-25 13:16:24] Server started and is ready to accept connections!
+[2023-07-25 13:16:24] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:16:24] Type 'help' for a list of commands.
+[2023-07-25 13:16:25] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:18:23] Resources: 3 loaded, 0 failed
+[2023-07-25 13:18:23] Starting resources....
+[2023-07-25 13:18:23] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:18:23] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:18:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:18:23] WARNING: <owner_email_address> not set
+[2023-07-25 13:18:23] Server started and is ready to accept connections!
+[2023-07-25 13:18:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:18:23] Type 'help' for a list of commands.
+[2023-07-25 13:18:24] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 13:18:58] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 13:18:58] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 13:18:59] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 13:19:11] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 13:20:39] restart: Requested by Console
+[2023-07-25 13:20:39] restart: Resource could not be restarted as it is protected
+[2023-07-25 13:21:09] Server stopped!
+[2023-07-25 13:21:09] Stopping resources......
+[2023-07-25 13:21:09] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:21:13] Resources: 3 loaded, 0 failed
+[2023-07-25 13:21:13] Starting resources....
+[2023-07-25 13:21:13] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:21:13] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:21:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:21:13] WARNING: <owner_email_address> not set
+[2023-07-25 13:21:13] Server started and is ready to accept connections!
+[2023-07-25 13:21:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:21:13] Type 'help' for a list of commands.
+[2023-07-25 13:21:17] restart: Requested by Console
+[2023-07-25 13:21:17] restart: Resource restarting...
+[2023-07-25 13:21:17] Stopping db
+[2023-07-25 13:21:17] Starting db
+[2023-07-25 13:21:17] db restarted successfully
+[2023-07-25 13:21:23] restart: Resource could not be found
+[2023-07-25 13:21:29] restart: Resource could not be found
+[2023-07-25 13:21:33] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 13:21:45] restart: Resource could not be found
+[2023-07-25 13:21:57] restart: Requested by Console
+[2023-07-25 13:21:57] restart: Resource restarting...
+[2023-07-25 13:21:57] Stopping vehicles
+[2023-07-25 13:21:57] Starting vehicles
+[2023-07-25 13:21:57] vehicles restarted successfully
+[2023-07-25 13:22:05] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 13:22:05] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 13:22:05] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 13:22:19] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 13:22:46] Server stopped!
+[2023-07-25 13:22:46] Stopping resources......
+[2023-07-25 13:22:47] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:22:49] Resources: 3 loaded, 0 failed
+[2023-07-25 13:22:50] Starting resources....
+[2023-07-25 13:22:50] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:22:50] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:22:50] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:22:50] WARNING: <owner_email_address> not set
+[2023-07-25 13:22:50] Server started and is ready to accept connections!
+[2023-07-25 13:22:50] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:22:50] Type 'help' for a list of commands.
+[2023-07-25 13:22:53] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 13:23:57] restart: Requested by Console
+[2023-07-25 13:23:57] restart: Resource restarting...
+[2023-07-25 13:23:57] Stopping vehicles
+[2023-07-25 13:23:57] Starting vehicles
+[2023-07-25 13:23:57] vehicles restarted successfully
+[2023-07-25 13:24:05] start: Requested by Console
+[2023-07-25 13:24:05] start: Resource is already running
+[2023-07-25 13:24:12] stop: Requested by Console
+[2023-07-25 13:24:12] stop: Resource stopping
+[2023-07-25 13:24:12] Stopping vehicles
+[2023-07-25 13:24:15] start: Requested by Console
+[2023-07-25 13:24:15] Starting vehicles
+[2023-07-25 13:24:15] start: Resource 'vehicles' started
+[2023-07-25 13:24:25] start: Requested by Console
+[2023-07-25 13:24:25] start: Resource is already running
+[2023-07-25 13:24:46] Server stopped!
+[2023-07-25 13:24:46] Stopping resources......
+[2023-07-25 13:24:46] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:24:53] Resources: 3 loaded, 0 failed
+[2023-07-25 13:24:53] Starting resources....
+[2023-07-25 13:24:53] ERROR: vehicles\vehicles.lua:1: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:24:53] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:24:53] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:24:53] WARNING: <owner_email_address> not set
+[2023-07-25 13:24:53] Server started and is ready to accept connections!
+[2023-07-25 13:24:53] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:24:53] Type 'help' for a list of commands.
+[2023-07-25 13:24:54] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:26:34] Resources: 3 loaded, 0 failed
+[2023-07-25 13:26:34] Starting resources....
+[2023-07-25 13:26:34] ERROR: vehicles\vehicles.lua:40: exports: Call to non-running server resource (db) [string "?"]
+[2023-07-25 13:26:34] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-07-25 13:26:34] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:26:34] WARNING: <owner_email_address> not set
+[2023-07-25 13:26:34] Server started and is ready to accept connections!
+[2023-07-25 13:26:34] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:26:34] Type 'help' for a list of commands.
+[2023-07-25 13:26:39] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-25 13:27:38] Resources: 3 loaded, 0 failed
+[2023-07-25 13:27:38] Starting resources......
+[2023-07-25 13:27:38] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-25 13:27:38] WARNING: <owner_email_address> not set
+[2023-07-25 13:27:38] Server started and is ready to accept connections!
+[2023-07-25 13:27:38] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-25 13:27:38] Type 'help' for a list of commands.
+[2023-07-25 13:27:39] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-25 13:27:45] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-25 13:27:45] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-25 13:27:45] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-25 13:27:57] WARNING: vehicles\vehicles.lua:25: dbExec failed; (1) 7 values for 4 columns
+[2023-07-25 13:27:57] ERROR: vehicles\vehicles.lua:31: attempt to index local 'vehicle' (a nil value)
+[2023-07-25 13:28:20] restart: Requested by Console
+[2023-07-25 13:28:20] restart: Resource restarting...
+[2023-07-25 13:28:20] Stopping vehicles
+[2023-07-25 13:28:20] Starting vehicles
+[2023-07-25 13:28:20] vehicles restarted successfully
+[2023-07-25 13:29:11] restart: Requested by Console
+[2023-07-25 13:29:11] restart: Resource restarting...
+[2023-07-25 13:29:11] Stopping vehicles
+[2023-07-25 13:29:11] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 13:29:11] Starting vehicles
+[2023-07-25 13:29:11] vehicles restarted successfully
+[2023-07-25 13:29:39] restart: Requested by Console
+[2023-07-25 13:29:39] restart: Resource restarting...
+[2023-07-25 13:29:39] Stopping vehicles
+[2023-07-25 13:29:39] Starting vehicles
+[2023-07-25 13:29:39] vehicles restarted successfully
+[2023-07-25 13:30:01] restart: Requested by Console
+[2023-07-25 13:30:01] restart: Resource restarting...
+[2023-07-25 13:30:01] Stopping vehicles
+[2023-07-25 13:30:01] Starting vehicles
+[2023-07-25 13:30:01] vehicles restarted successfully
+[2023-07-25 13:31:23] restart: Requested by Console
+[2023-07-25 13:31:23] restart: Resource restarting...
+[2023-07-25 13:31:23] Stopping vehicles
+[2023-07-25 13:31:23] Resource 'vehicles' changed, reloading and starting
+[2023-07-25 13:31:23] Starting vehicles
+[2023-07-25 13:31:23] vehicles restarted successfully
+[2023-07-25 13:31:43] restart: Requested by Console
+[2023-07-25 13:31:43] restart: Resource restarting...
+[2023-07-25 13:31:43] Stopping vehicles
+[2023-07-25 13:31:43] Starting vehicles
+[2023-07-25 13:31:43] vehicles restarted successfully
+[2023-07-25 13:33:07] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-25 13:33:24] Server stopped!
+[2023-07-25 13:33:24] Stopping resources.....
+[2023-07-25 13:33:24] WARNING: vehicles\vehicles.lua:54: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-25 13:33:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-26 00:40:55] Resources: 3 loaded, 0 failed
+[2023-07-26 00:40:55] Starting resources......
+[2023-07-26 00:40:55] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-26 00:40:55] WARNING: <owner_email_address> not set
+[2023-07-26 00:40:55] Server started and is ready to accept connections!
+[2023-07-26 00:40:55] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-26 00:40:55] Type 'help' for a list of commands.
+[2023-07-26 00:40:57] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-26 00:41:37] Server stopped!
+[2023-07-26 00:41:37] Stopping resources.....
+[2023-07-26 00:41:37] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-26 00:41:37] Closing SQLite3 database
