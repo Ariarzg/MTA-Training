@@ -6,22 +6,18 @@
     </group>
     <group name="Moderator">
         <acl name="Moderator"></acl>
+        <acl name="Admin"></acl>
+        <object name="user.Aria"></object>
     </group>
     <group name="SuperModerator">
         <acl name="Moderator"></acl>
         <acl name="SuperModerator"></acl>
+        <acl name="Admin"></acl>
     </group>
     <group name="Admin">
         <acl name="Moderator"></acl>
         <acl name="SuperModerator"></acl>
         <acl name="Admin"></acl>
-        <acl name="RPC"></acl>
-    </group>
-    <group name="Admin">
-        <acl name="Moderator"></acl>
-        <acl name="SuperModerator"></acl>
-        <acl name="Admin"></acl>
-        <acl name="Developer"></acl>
         <acl name="RPC"></acl>
     </group>
     <group name="Console">
@@ -34,6 +30,7 @@
     <group name="RPC">
         <acl name="RPC"></acl>
         <object name="resource.players"></object>
+        <object name="resource.admin"></object>
     </group>
     <acl name="Default">
         <right name="general.ModifyOtherObjects" access="false"></right>
@@ -115,11 +112,11 @@
         <right name="function.setServerConfigSetting" access="false"></right>
         <right name="function.updateResourceACLRequest" access="false"></right>
         <right name="function.shutdown" access="false"></right>
+        <right name="command.setaclright" access="false"></right>
+        <right name="command.setrank" access="false"></right>
     </acl>
-    <acl name="Moderator">
-    </acl>
-    <acl name="SuperModerator">
-    </acl>
+    <acl name="Moderator"></acl>
+    <acl name="SuperModerator"></acl>
     <acl name="Admin">
         <right name="general.ModifyOtherObjects" access="true"></right>
         <right name="general.http" access="true"></right>
@@ -171,6 +168,9 @@
         <right name="command.stop" access="true"></right>
         <right name="command.stopall" access="false"></right>
         <right name="command.restart" access="true"></right>
+        <right name="command.toggleflight" access="true"></right>
+        <right name="command.setaclright" access="true"></right>
+        <right name="command.setrank" access="true"></right>
     </acl>
     <acl name="RPC">
         <right name="function.callRemote" access="true"></right>

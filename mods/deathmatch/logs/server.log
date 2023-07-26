@@ -839,3 +839,190 @@ debuguptime              sfakelag
 [2023-07-26 03:45:25] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
 [2023-07-26 03:45:25] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]  [DUP x3]
 [2023-07-26 03:45:25] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-26 04:12:49] Resources: 4 loaded, 0 failed
+[2023-07-26 04:12:49] Starting resources....
+[2023-07-26 04:12:49] SCRIPT ERROR: admin\admin.lua:1: ')' expected near 'function'
+[2023-07-26 04:12:49] ERROR: Loading script failed: admin\admin.lua:1: ')' expected near 'function'
+[2023-07-26 04:12:49] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-26 04:12:49] WARNING: <owner_email_address> not set
+[2023-07-26 04:12:49] Server started and is ready to accept connections!
+[2023-07-26 04:12:49] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-26 04:12:49] Type 'help' for a list of commands.
+[2023-07-26 04:12:50] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-26 04:13:42] Server stopped!
+[2023-07-26 04:13:42] Stopping resources......
+[2023-07-26 04:13:42] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-26 04:13:42] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]  [DUP x3]
+[2023-07-26 04:13:42] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-26 04:13:44] Resources: 4 loaded, 0 failed
+[2023-07-26 04:13:44] Starting resources.......
+[2023-07-26 04:13:44] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-26 04:13:44] WARNING: <owner_email_address> not set
+[2023-07-26 04:13:45] Server started and is ready to accept connections!
+[2023-07-26 04:13:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-26 04:13:45] Type 'help' for a list of commands.
+[2023-07-26 04:13:48] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-26 04:14:03] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-26 04:14:03] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-26 04:14:03] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-26 04:14:41] CHAT: EndurablePirate90: register
+[2023-07-26 04:15:23] LOGIN: (Everyone) EndurablePirate90 successfully logged in as 'Aria' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-26 04:15:40] ACL: admin: Object 'user.Aria' added to group 'Admin'
+[2023-07-26 04:16:01] CHAT: EndurablePirate90: are
+[2023-07-26 04:16:33] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:16:33] Stopping vehicles
+[2023-07-26 04:16:33] Starting vehicles
+[2023-07-26 04:16:33] vehicles restarted successfully
+[2023-07-26 04:16:46] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:16:46] Stopping vehicles
+[2023-07-26 04:16:46] Starting vehicles
+[2023-07-26 04:16:46] vehicles restarted successfully
+[2023-07-26 04:16:47] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:16:47] Stopping vehicles
+[2023-07-26 04:16:47] Starting vehicles
+[2023-07-26 04:16:47] vehicles restarted successfully
+[2023-07-26 04:16:49] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:16:49] Stopping vehicles
+[2023-07-26 04:16:49] Starting vehicles
+[2023-07-26 04:16:49] vehicles restarted successfully
+[2023-07-26 04:17:08] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:17:08] Stopping vehicles
+[2023-07-26 04:17:08] Starting vehicles
+[2023-07-26 04:17:08] vehicles restarted successfully
+[2023-07-26 04:17:10] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:17:10] Stopping vehicles
+[2023-07-26 04:17:10] Starting vehicles
+[2023-07-26 04:17:10] vehicles restarted successfully
+[2023-07-26 04:17:10] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:17:10] Stopping vehicles
+[2023-07-26 04:17:10] Starting vehicles
+[2023-07-26 04:17:10] vehicles restarted successfully
+[2023-07-26 04:18:45] ACL: admin: Object 'user.Aria' removed from group 'Admin'
+[2023-07-26 04:18:45] ACL: admin: Object 'user.Aria' added to group 'Moderator'
+[2023-07-26 04:20:10] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-26 04:29:51] restart: Requested by Console
+[2023-07-26 04:29:51] restart: Resource restarting...
+[2023-07-26 04:29:51] Stopping admin
+[2023-07-26 04:29:51] Resource 'admin' changed, reloading and starting
+[2023-07-26 04:29:51] Starting admin
+[2023-07-26 04:29:51] admin restarted successfully
+[2023-07-26 04:29:59] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-26 04:29:59] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-26 04:30:06] ACL: Denied 'EndurablePirate90' access to command 'restart'
+[2023-07-26 04:30:25] WARNING: players\authentication.lua:41: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2023-07-26 04:31:24] WARNING: players\authentication.lua:41: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2023-07-26 04:31:58] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-26 04:33:53] ACL: Denied 'EndurablePirate90' access to command 'restart'
+[2023-07-26 04:35:30] ACL: Denied 'EndurablePirate90' access to command 'restart'
+[2023-07-26 04:35:34] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-26 04:35:40] restart: Requested by Console
+[2023-07-26 04:35:40] restart: Resource restarting...
+[2023-07-26 04:35:40] Stopping admin
+[2023-07-26 04:35:40] Starting admin
+[2023-07-26 04:35:40] admin restarted successfully
+[2023-07-26 04:35:41] Server stopped!
+[2023-07-26 04:35:42] Stopping resources......
+[2023-07-26 04:35:42] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-26 04:35:42] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]  [DUP x4]
+[2023-07-26 04:35:42] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-26 04:35:46] Resources: 4 loaded, 0 failed
+[2023-07-26 04:35:46] Starting resources.......
+[2023-07-26 04:35:46] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-26 04:35:46] WARNING: <owner_email_address> not set
+[2023-07-26 04:35:46] Server started and is ready to accept connections!
+[2023-07-26 04:35:46] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-26 04:35:46] Type 'help' for a list of commands.
+[2023-07-26 04:35:47] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-26 04:35:53] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-26 04:35:53] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-26 04:35:54] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-26 04:36:11] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-26 04:37:21] ACL: admin: Right 'command.setaclright' DISALLOW added in ACL 'Default'
+[2023-07-26 04:39:34] ACL: admin: Object 'user.Aria' removed from group 'Moderator'
+[2023-07-26 04:39:34] ACL: admin: Object 'user.Aria' added to group 'Admin'
+[2023-07-26 04:40:09] ACL: admin: Object 'user.Aria' removed from group 'Admin'
+[2023-07-26 04:40:09] ACL: admin: Object 'user.Aria' added to group 'Moderator'
+[2023-07-26 04:40:15] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 04:40:15] Stopping admin
+[2023-07-26 04:40:15] Starting admin
+[2023-07-26 04:40:15] admin restarted successfully
+[2023-07-26 04:41:26] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-26 04:41:31] Server stopped!
+[2023-07-26 04:41:31] Stopping resources......
+[2023-07-26 04:41:31] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-26 04:41:31] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]  [DUP x4]
+[2023-07-26 04:41:31] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-26 04:41:34] Resources: 4 loaded, 0 failed
+[2023-07-26 04:41:34] Starting resources.......
+[2023-07-26 04:41:34] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-26 04:41:34] WARNING: <owner_email_address> not set
+[2023-07-26 04:41:34] Server started and is ready to accept connections!
+[2023-07-26 04:41:34] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-26 04:41:34] Type 'help' for a list of commands.
+[2023-07-26 04:41:35] Querying MTA master server... success! (Auto detected IP:5.119.98.190)
+[2023-07-26 04:41:44] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-26 04:41:44] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-26 04:41:44] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-26 04:41:56] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-26 04:42:47] ACL: admin: Right 'command.setrank' DISALLOW added in ACL 'Default'
+[2023-07-26 04:43:14] ACL: admin: Object 'user.Aria' removed from group 'Moderator'
+[2023-07-26 04:43:14] ACL: admin: Object 'user.Aria' added to group 'Moderator'
+[2023-07-26 04:46:03] ACL: admin: Right 'command.setrank' ALLOW added in ACL 'Admin'
+[2023-07-26 04:46:26] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-26 04:46:32] Server stopped!
+[2023-07-26 04:46:32] Stopping resources......
+[2023-07-26 04:46:32] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-26 04:46:32] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]  [DUP x4]
+[2023-07-26 04:46:32] Closing SQLite3 database
