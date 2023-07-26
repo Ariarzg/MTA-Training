@@ -1026,3 +1026,61 @@ debuguptime              sfakelag
 [2023-07-26 04:46:32] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
 [2023-07-26 04:46:32] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]  [DUP x4]
 [2023-07-26 04:46:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-26 12:02:46] Resources: 4 loaded, 0 failed
+[2023-07-26 12:02:46] Starting resources.......
+[2023-07-26 12:02:46] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-26 12:02:46] WARNING: <owner_email_address> not set
+[2023-07-26 12:02:46] Server started and is ready to accept connections!
+[2023-07-26 12:02:46] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-26 12:02:46] Type 'help' for a list of commands.
+[2023-07-26 12:03:05] Querying MTA master server... success! (Auto detected IP:5.119.235.249)
+[2023-07-26 12:04:59] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-26 12:04:59] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-26 12:05:06] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-26 12:09:28] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-26 12:09:35] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 12:09:35] Stopping vehicles
+[2023-07-26 12:09:36] Starting vehicles
+[2023-07-26 12:09:36] vehicles restarted successfully
+[2023-07-26 12:09:37] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 12:09:37] Stopping vehicles
+[2023-07-26 12:09:37] Starting vehicles
+[2023-07-26 12:09:37] vehicles restarted successfully
+[2023-07-26 12:15:23] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-26 12:15:48] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-26 12:15:48] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-26 12:18:35] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-26 13:12:13] restart: Requested by Console
+[2023-07-26 13:12:13] restart: Resource restarting...
+[2023-07-26 13:12:13] Stopping vehicles
+[2023-07-26 13:12:13] Resource 'vehicles' changed, reloading and starting
+[2023-07-26 13:12:13] Starting vehicles
+[2023-07-26 13:12:13] vehicles restarted successfully
+[2023-07-26 13:12:53] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-26 13:12:57] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-26 13:14:02] ACL: Denied 'EndurablePirate90' access to command 'restart'
+[2023-07-26 13:14:11] LOGIN: EndurablePirate90 tried to log in as 'Aria' with an invalid password (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-26 13:14:26] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-26 13:14:28] restart: Requested by EndurablePirate90(Aria)
+[2023-07-26 13:14:28] Stopping vehicles
+[2023-07-26 13:14:28] Starting vehicles
+[2023-07-26 13:14:28] vehicles restarted successfully
+[2023-07-26 13:14:50] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-26 13:15:33] Server stopped!
+[2023-07-26 13:15:33] Stopping resources......
+[2023-07-26 13:15:33] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-26 13:15:34] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-26 13:15:34] Closing SQLite3 database
