@@ -7,7 +7,6 @@
     <group name="Moderator">
         <acl name="Moderator"></acl>
         <acl name="Admin"></acl>
-        <object name="user.Aria"></object>
     </group>
     <group name="SuperModerator">
         <acl name="Moderator"></acl>
@@ -19,6 +18,7 @@
         <acl name="SuperModerator"></acl>
         <acl name="Admin"></acl>
         <acl name="RPC"></acl>
+        <object name="user.Aria"></object>
     </group>
     <group name="Console">
         <acl name="Moderator"></acl>

@@ -1339,3 +1339,184 @@ debuguptime              sfakelag
 [2023-07-26 15:12:38] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
 [2023-07-26 15:12:38] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
 [2023-07-26 15:12:38] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-27 00:36:44] Resources: 4 loaded, 0 failed
+[2023-07-27 00:36:44] Starting resources.......
+[2023-07-27 00:36:44] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-27 00:36:44] WARNING: <owner_email_address> not set
+[2023-07-27 00:36:44] Server started and is ready to accept connections!
+[2023-07-27 00:36:44] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-27 00:36:44] Type 'help' for a list of commands.
+[2023-07-27 00:36:45] Querying MTA master server... success! (Auto detected IP:5.119.235.249)
+[2023-07-27 00:40:01] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-27 00:40:01] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 00:40:12] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-27 00:42:12] restart: Requested by Console
+[2023-07-27 00:42:12] restart: Resource restarting...
+[2023-07-27 00:42:12] Stopping players
+[2023-07-27 00:42:12] Resource 'players' changed, reloading and starting
+[2023-07-27 00:42:12] Starting players
+[2023-07-27 00:42:13] players restarted successfully
+[2023-07-27 00:42:19] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 00:42:21] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 00:42:21] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-27 00:42:43] ERROR: players\s_authentication.lua:23: attempt to call global 'triggerServerEvent' (a nil value)
+[2023-07-27 00:43:32] restart: Requested by Console
+[2023-07-27 00:43:32] restart: Resource restarting...
+[2023-07-27 00:43:32] Stopping players
+[2023-07-27 00:43:32] Resource 'players' changed, reloading and starting
+[2023-07-27 00:43:32] Starting players
+[2023-07-27 00:43:32] players restarted successfully
+[2023-07-27 00:43:36] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 00:43:40] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 00:43:40] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-27 00:43:56] LOGIN: (Everyone) EndurablePirate90 successfully logged in as 'test2' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 00:46:58] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 00:57:20] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 00:57:20] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-27 00:57:30] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 00:57:39] restart: Requested by EndurablePirate90(Aria)
+[2023-07-27 00:57:39] Stopping players
+[2023-07-27 00:57:39] Resource 'players' changed, reloading and starting
+[2023-07-27 00:57:39] Starting players
+[2023-07-27 00:57:39] players restarted successfully
+[2023-07-27 00:58:10] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 00:58:12] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 00:58:12] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-27 00:58:26] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:41: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:42: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:43: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:44: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:45: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:47: Bad argument @ 'spawnPlayer' [Expected vector3 at argument 2, got boolean]
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:48: Bad argument @ 'setElementInterior' [Expected number at argument 2, got boolean]
+[2023-07-27 00:58:26] WARNING: players\s_authentication.lua:49: Bad argument @ 'setElementDimension' [Expected number at argument 2, got boolean]
+[2023-07-27 00:59:37] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 01:06:07] restart: Requested by Console
+[2023-07-27 01:06:07] restart: Resource restarting...
+[2023-07-27 01:06:07] Stopping players
+[2023-07-27 01:06:07] Resource 'players' changed, reloading and starting
+[2023-07-27 01:06:07] Starting players
+[2023-07-27 01:06:07] players restarted successfully
+[2023-07-27 01:06:47] Server stopped!
+[2023-07-27 01:06:47] Stopping resources......
+[2023-07-27 01:06:47] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-27 01:06:47] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-27 01:06:47] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-27 01:06:50] Resources: 4 loaded, 0 failed
+[2023-07-27 01:06:50] Starting resources.......
+[2023-07-27 01:06:50] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-07-27 01:06:50] WARNING: <owner_email_address> not set
+[2023-07-27 01:06:50] Server started and is ready to accept connections!
+[2023-07-27 01:06:50] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-07-27 01:06:50] Type 'help' for a list of commands.
+[2023-07-27 01:06:54] Querying MTA master server... success! (Auto detected IP:5.119.235.249)
+[2023-07-27 01:06:59] Server minclientversion is now 1.5.9-9.21650.0
+[2023-07-27 01:06:59] CONNECT: EndurablePirate90 connected (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 01:06:59] JOIN: EndurablePirate90 joined the game (IP: 127.0.0.1)
+[2023-07-27 01:07:14] LOGIN: (Everyone, Moderator) EndurablePirate90 successfully logged in as 'Aria' (IP: 127.0.0.1  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:41: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:42: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:43: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:44: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:45: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:47: Bad argument @ 'spawnPlayer' [Expected vector3 at argument 2, got boolean]
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:48: Bad argument @ 'setElementInterior' [Expected number at argument 2, got boolean]
+[2023-07-27 01:07:14] WARNING: players\s_authentication.lua:49: Bad argument @ 'setElementDimension' [Expected number at argument 2, got boolean]
+[2023-07-27 01:07:29] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 01:13:57] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 01:13:57] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-27 01:14:03] WARNING: players\s_authentication.lua:35: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2023-07-27 01:16:19] LOGIN: (Everyone) EndurablePirate90 successfully logged in as 'Aria1' (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:41: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:42: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:43: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:44: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:45: Bad argument @ 'getAccountData' [Expected account at argument 1, got player]
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:47: Bad argument @ 'spawnPlayer' [Expected vector3 at argument 2, got boolean]
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:48: Bad argument @ 'setElementInterior' [Expected number at argument 2, got boolean]
+[2023-07-27 01:16:19] WARNING: players\s_authentication.lua:49: Bad argument @ 'setElementDimension' [Expected number at argument 2, got boolean]
+[2023-07-27 01:19:29] restart: Requested by Console
+[2023-07-27 01:19:29] restart: Resource restarting...
+[2023-07-27 01:19:29] Stopping players
+[2023-07-27 01:19:29] Resource 'players' changed, reloading and starting
+[2023-07-27 01:19:29] Starting players
+[2023-07-27 01:19:29] players restarted successfully
+[2023-07-27 01:19:48] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 01:19:53] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 01:19:54] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-27 01:20:03] LOGIN: (Everyone) EndurablePirate90 successfully logged in as 'Aria1' (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 01:20:03] WARNING: players\s_authentication.lua:41: Bad argument @ 'getAccountData' [Expected account at argument 1, got nil]
+[2023-07-27 01:20:03] WARNING: players\s_authentication.lua:42: Bad argument @ 'getAccountData' [Expected account at argument 1, got nil]
+[2023-07-27 01:20:03] WARNING: players\s_authentication.lua:43: Bad argument @ 'getAccountData' [Expected account at argument 1, got nil]
+[2023-07-27 01:20:03] WARNING: players\s_authentication.lua:44: Bad argument @ 'getAccountData' [Expected account at argument 1, got nil]
+[2023-07-27 01:20:03] WARNING: players\s_authentication.lua:45: Bad argument @ 'getAccountData' [Expected account at argument 1, got nil]
+[2023-07-27 01:20:03] WARNING: players\s_authentication.lua:47: Bad argument @ 'spawnPlayer' [Expected vector3 at argument 2, got boolean]
+[2023-07-27 01:20:43] restart: Requested by Console
+[2023-07-27 01:20:43] restart: Resource restarting...
+[2023-07-27 01:20:43] Stopping players
+[2023-07-27 01:20:43] Resource 'players' changed, reloading and starting
+[2023-07-27 01:20:43] Starting players
+[2023-07-27 01:20:43] players restarted successfully
+[2023-07-27 01:20:47] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 01:20:48] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 01:20:49] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-27 01:21:02] LOGIN: (Everyone) EndurablePirate90 successfully logged in as 'Aria1' (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 01:21:20] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 01:21:22] CONNECT: EndurablePirate90 connected (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54  Version: 1.5.9-9.21650.0)
+[2023-07-27 01:21:22] JOIN: EndurablePirate90 joined the game (IP: 192.168.43.161)
+[2023-07-27 01:21:33] LOGIN: (Everyone) EndurablePirate90 successfully logged in as 'Aria1' (IP: 192.168.43.161  Serial: 687F970463B3AED1840ACFCD9E87EE54)
+[2023-07-27 01:25:03] QUIT: EndurablePirate90 left the game [Quit]
+[2023-07-27 01:25:03] ERROR: While updating account with 'UPDATE userdata SET value='120.811523', type=3 WHERE userid=2 AND key='last_x'': database is locked.
+[2023-07-27 01:25:03] ERROR: While updating account with 'UPDATE userdata SET value='-18.778320', type=3 WHERE userid=2 AND key='last_y'': database is locked.
+[2023-07-27 01:25:03] ERROR: While updating account with 'UPDATE userdata SET value='1.412919', type=3 WHERE userid=2 AND key='last_z'': database is locked.
+[2023-07-27 01:25:10] Server stopped!
+[2023-07-27 01:25:10] Stopping resources......
+[2023-07-27 01:25:10] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-27 01:25:10] WARNING: vehicles\s_vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1]
+[2023-07-27 01:25:10] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..rver/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-07-27 01:27:56] ERROR: no such table: write_test
+[2023-07-27 01:27:56] ERROR: Errors were encountered updating 'internal.db' database
+[2023-07-27 01:27:56] ERROR: Database might have incorrect file permissions, or locked by another process, or damaged.
+[2023-07-27 01:27:56] ERROR: See - http://wiki.multitheftauto.com/wiki/fixdb
+[2023-07-27 01:27:56] ERROR: ************************
+[2023-07-27 01:27:57] Server stopped!

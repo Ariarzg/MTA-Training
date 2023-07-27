@@ -1,3 +1,6 @@
+local CAMERA_X, CAMERA_Y, CAMERA_Z = -2706.2236328125, -5.75, 20
+local CAMERA_LOOK_X, CAMERA_LOOK_Y, CAMERA_LOOK_Z = -2665.40625, -5.53125, 20
+
 local window
 
 local function isUsernameValid(username)
@@ -19,7 +22,7 @@ addEvent('login-menu:open', true)
 
 addEventHandler('login-menu:open', root, function() 
     -- fade their camera in
-    setCameraMatrix(0, 0, 100, 0, 100, 50)
+    setCameraMatrix(CAMERA_X, CAMERA_Y, CAMERA_Z, CAMERA_LOOK_X, CAMERA_LOOK_Y, CAMERA_LOOK_Z)
     fadeCamera(true)
     
 

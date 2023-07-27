@@ -1,3 +1,5 @@
+local SPAWN_X, SPAWN_Y, SPAWN_Z = -2668, -6, 6.5;
+
 -- create an account
 addEvent('auth:register-attempt', true)
 addEventHandler('auth:register-attempt', root, function(username, password)
@@ -15,7 +17,12 @@ addEventHandler('auth:register-attempt', root, function(username, password)
         setAccountData(account, 'hashed_password', hashedPassword)
 
         -- login user
-        triggerEvent('auth:login-attempt', player, username, password)
+        if logIn(player, account, hashedPassword) then 
+            spawnPlayer(player, SPAWN_X, SPAWN_Y, SPAWN_Z)
+            setCameraTarget(player, player)
+
+            return triggerClientEvent(player, 'login-menu:close', player)
+        end
     end)
 end)
 -- ---------------------------------------------------------------------
@@ -38,7 +45,16 @@ addEventHandler('auth:login-attempt', root, function(username, password)
         end
 
         if logIn(player, account, hashedPassword) then 
-            spawnPlayer(player, 0, 0, 10)
+            local x = getAccountData(account, 'last_x')
+            local y = getAccountData(account, 'last_y')
+            local z = getAccountData(account, 'last_z')
+            local interior = getAccountData(account, 'last_interior')
+            local dimension = getAccountData(account, 'last_dimension')
+            
+            spawnPlayer(player, x, y, z)
+            setElementInterior(player, interior)
+            setElementDimension(player, dimension)
+
             setCameraTarget(player, player)
             return triggerClientEvent(player, 'login-menu:close', player)
         end
